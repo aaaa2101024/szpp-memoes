@@ -1,0 +1,41 @@
+{  "ResultInfo": {"Count": 1,"Total": 1,"Start": 1,"Status": 200,"Latency": 0.014,"Description": ""},
+"Feature": [{"Id": "202505301820_139.732293_35.663613","Name": "地点(139.732293,35.663613)の2025年05月30日 18時20分から60分間の天気情報","Geometry": {"Type": "point","Coordinates": "139.732293,35.663613"},"Property": {"WeatherAreaCode": 4410,"WeatherList": { "Weather": [ {"Type": "observation",
+              "Date": "202505301820",
+              "Rainfall": 0
+            },
+            {
+              "Type": "forecast",
+              "Date": "202505301830",
+              "Rainfall": 0
+            },
+            {
+              "Type": "forecast",
+              "Date": "202505301840",
+              "Rainfall": 0
+            },
+            {
+              "Type": "forecast",
+              "Date": "202505301850",
+              "Rainfall": 0
+            },
+            {
+              "Type": "forecast",
+              "Date": "202505301900",
+              "Rainfall": 0
+            },
+            {
+              "Type": "forecast",
+              "Date": "202505301910",
+              "Rainfall": 0
+            },
+            {
+              "Type": "forecast",
+              "Date": "202505301920",
+              "Rainfall": 0
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

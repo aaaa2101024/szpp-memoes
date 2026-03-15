@@ -1,0 +1,24 @@
+/* ./App.css */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f0f2f5; /* 少し落ち着いた背景色 */
+  color: #333; /* 基本の文字色 */
+}
+
+/* アプリケーション全体のコンテナを中央に配置しやすくするためのスタイル */
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh; /* 画面の高さいっぱいに表示 */
+  padding-top: 40px; /* 上部に少し余白 */
+  box-sizing: border-box;
+}
+
+/* 必要に応じて追加のグローバルスタイル */
